@@ -1,6 +1,6 @@
 //
 //  UIView+BGK.m
-//  美团--bugkiller
+//  bugkiller
 //
 //  Created by 王腾 on 16/7/1.
 //  Copyright © 2016年 bugkiller. All rights reserved.
@@ -9,6 +9,9 @@
 #import "UIView+BGK.h"
 /**
  *  使用的时候直接导入头文件,直接在给操作的控件设置frame的时候用该对象直接点出相对应的属性即可
+ */
+/**
+ *  下面是相对应的实现
  */
 @implementation UIView (BGK)
 //x的setter 和getter方法
